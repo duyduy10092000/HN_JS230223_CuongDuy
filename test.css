@@ -1,0 +1,19 @@
+.b{
+    border: 2px solid blanchedalmond;
+    background-image: url(./a574cea1cd3917674e28.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    align-items: flex-end;
+    width: 1200px;
+    margin-left: 150px;
+    background-size: 100%;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.grid-item{
+}
